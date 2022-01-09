@@ -1,0 +1,19 @@
+.outer{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 15vw;
+}
+.logo{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner{
+    margin-top: 5%;
+    width: 27vw;
+    padding: 4%;
+}
